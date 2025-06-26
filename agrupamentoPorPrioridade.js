@@ -34,4 +34,4 @@ rl.question('Digite a lista de vendas no formato [{"cliente":"João","total":100
 });
 
 
-// exemplo de entrada: [{"cliente":"João","total":100},{"cliente":"Maria","total":200},{"cliente":"João","total":150}]
+// exemplo de entrada: 
